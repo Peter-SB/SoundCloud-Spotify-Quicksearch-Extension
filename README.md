@@ -5,9 +5,7 @@
 
 # Quick Search on SoundCloud/Spotify Chrome Extensions Pack
 
-These Chrome Extensions allow you to highlight text and quickly search the selected text on Spotify or SoundCloud. 
-Right-click and select your platform from the context menu. 
-I've designed this to help myself and others quickly and seamlessly search for music on two major music library platforms.
+These Chrome extensions allow you to highlight text and quickly search the selected text on Spotify or SoundCloud. Simply right-click and select your platform from the context menu. I've designed this to help myself and others quickly and seamlessly search for music on two major music platforms.
 
 <p align="center">
   <br><br>
