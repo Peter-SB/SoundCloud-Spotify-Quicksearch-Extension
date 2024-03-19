@@ -19,7 +19,7 @@ I've designed this to help myself and others quickly and seamlessly search for m
 - **Easy to Use**: Simply highlight, right-click, and search.
 - **Quick Access**: Instantly opens a new tab with search results on Spotify or SoundCloud.
 - **Flexible**: Works on any website, making it easier to discover music while browsing.
-- **Customisation**: Don't have on of the platforms? Just doon't install that part of the extention.
+- **Customisation**: Don't have on of the platforms? Just doon't install that part of the extension.
 
 ## Installation
 
