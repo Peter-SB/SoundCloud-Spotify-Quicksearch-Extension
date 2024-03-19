@@ -3,7 +3,7 @@
   <img src="SearchOnSpotify/images/spotify-128px.png" width="100" style="padding-left: 10px;" />
 </p>
 
-# Quick Search on Spotify/SoundCloud Chrome Extension
+# Quick Search on SoundCloud/Spotify Chrome Extension
 
 Chrome Extension allows you to highlight text on and quickly search the selected text on Spotify or SoundCloud. 
 Right-click and selecting the your desired platform from the context menu. 
