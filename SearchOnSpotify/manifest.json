@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Search On Spotify",
+    "version": "1.0",
+    "description": "Search highlighted text on Spotify",
+    "permissions": ["activeTab", "contextMenus"],
+    "background": {
+      "service_worker": "background.js"
+    },
+      "icons": {
+        "16": "images/spotify-16px.png",
+        "48": "images/spotify-48px.png",
+        "128": "images/spotify-128px.png"
+      }
+  }
+  

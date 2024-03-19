@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Search On Soundcloud",
+    "version": "1.0",
+    "description": "Search highlighted text on Soundcloud",
+    "permissions": ["activeTab", "contextMenus"],
+    "background": {
+      "service_worker": "background.js"
+    },
+      "icons": {
+        "16": "images/soundcloud-16px.png",
+        "48": "images/soundcloud-48px.png",
+        "128": "images/soundcloud-128px.png"
+      }
+  }
+  
